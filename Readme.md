@@ -10,3 +10,13 @@
 * [chat-proto](https://github.com/fsharechat/chat-proto) 基于protobuf的相关proto定义文件
 
 **NOTE:** 有些项目由于商业原因,有可能你无法访问.添加权限请联系QQ `1282212195`
+
+# 文档列表
+## 技术说明
+* [飞享-即时聊天系统技术文档](https://www.comsince.cn/2020/05/18/universe-push-tech-doc/)
+## 部署
+* [即时聊天系统在Centos上单机部署实践](https://www.comsince.cn/2020/04/13/universe-push-start-on-centos/)
+* [即时聊天系统在Windows上单机测试部署实践](https://www.comsince.cn/2020/05/07/universe-push-start-on-windows/)
+## 音视频方案
+* [实时音视频开发的工程化实践](https://www.comsince.cn/2020/03/04/web-rtc/)
+* [多人音视频会话方案预研](https://www.comsince.cn/2020/06/01/muti-conference-webrtc/)
