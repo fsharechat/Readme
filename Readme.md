@@ -1,3 +1,10 @@
+---
+layout: post
+title: 飞享项目说明
+category: IM
+description: 
+---
+
 # 项目概述
 为了便于项目的管理与发展,将项目相关的仓库全部移动到这里.之前在[github](https://github.com/comsince),[gitee](https://gitee.com/)的个人账户下面的项目,原则上全部移动到这里维护
 
@@ -20,3 +27,149 @@
 ## 音视频方案
 * [实时音视频开发的工程化实践](https://www.comsince.cn/2020/03/04/web-rtc/)
 * [多人音视频会话方案预研](https://www.comsince.cn/2020/06/01/muti-conference-webrtc/)
+
+
+# 功能列表
+
+<table>
+    <tr>
+        <th>主功能</th>
+        <th>功能说明</th>
+        <th>web</th>
+        <th>h5</th>
+        <th>android</th>
+    </tr >
+    <tr>
+        <td >登录</td>
+        <td>支持腾讯云,阿里云验证码登录</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td rowspan="2">用户信息</td>
+        <td>修改用户头像</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>修改用户昵称</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td rowspan="4">好友列表</td>
+        <td>发送好友请求</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>处理好友请求</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>修改好友备注名</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>好友列表查看</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td rowspan="5">单聊</td>
+        <td>文本/视频/图片</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>语音</td>
+        <td>×</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>消息删除</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>消息撤回</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>消息转发</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td rowspan="7">群聊(含基本单聊功能)</td>
+        <td>群聊创建</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>修改群名称</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>群聊退出</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>群聊解散</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>群成员列表</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>成员邀请</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>成员删除</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td rowspan="2">实时音视频</td>
+        <td>一对一音视频</td>
+        <td>√</td>
+        <td>×</td>
+        <td>√</td>
+    </tr>
+    <tr>
+        <td>群组音视频</td>
+        <td>√</td>
+        <td>×</td>
+        <td>×</td>
+    </tr>
+    
+</table>
