@@ -19,6 +19,19 @@ description:
 
 **NOTE:** 有些项目由于商业原因,有可能你无法访问.添加权限请联系QQ `1282212195`
 
+
+# 项目演示说明
+
+* [vue-chat-web版本](https://chat.comsince.cn/)
+* [vue-mobile-chat移动版本](https://chat.comsince.cn/mobile)
+
+**NOTE:** 由于现在没有开通短信功能,可以使用下演示帐号登录
+
+```shell
+帐号：13800000000, 13800000001, 13800000002
+验证码：556677
+```
+
 ## 项目迁移问题
 **NOTE:** 针对项目改变地址,可以使用以下方法快速切换代码拉取地址,以下以`chat-server-release`具体说明,其他项目基本类似
 ```shell
