@@ -24,6 +24,8 @@ description:
 
 * [vue-chat-web版本](https://chat.comsince.cn/)
 * [vue-mobile-chat移动版本](https://chat.comsince.cn/mobile)
+* Android扫码下载  
+![image](https://media.comsince.cn/minio-bucket-image-name/1-373z3zNN-1594953226715-fshare-chat-apk-qrcode.png)
 
 **NOTE:** 由于现在没有开通短信功能,可以使用下演示帐号登录
 
