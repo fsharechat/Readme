@@ -207,7 +207,7 @@ git branch --set-upstream-to=origin/master
 
 | 支付宝      | 微信| 
 | :--------: | :--------:| 
-|<img src="http://image.comsince.cn/zfb-purse.png" alt="图片替换文本" width="300" height="300" align="center" />|<img src="http://image.comsince.cn/wx-purse.png" alt="图片替换文本" width="300" height="300" align="center" />|
+|<img src="https://media.comsince.cn/minio-bucket-image-name/zfb-purse.jpg" alt="图片替换文本" width="300" height="450" align="center" />|<img src="https://media.comsince.cn/minio-bucket-image-name/wx-purse.png" alt="图片替换文本" width="300" height="450" align="center" />|
 
 ## 技术支持
 
