@@ -1,6 +1,6 @@
 
 # 项目概述
-为了便于项目的管理与发展,将项目相关的仓库全部移动到这里.之前在[github](https://github.com/comsince),[gitee](https://gitee.com/)的个人账户下面的项目,原则上全部移动到这里维护
+为了便于项目的管理与发展,将项目相关的仓库全部移动到这里[Github飞享开发组](https://github.com/fsharechat),[gitee](https://gitee.com/comsince)的个人账户下面的项目,原则上全部移动到这里维护
 
 # 项目列表
 ## 服务端项目
@@ -217,6 +217,10 @@ git branch --set-upstream-to=origin/master
 </table>
 
 # 商业说明
+
+## 开源协议
+
+本项目使用非商业性署名协议[Creative Commons Attribution Non Commercial 3.0 Unported](LICENSE)
 
 ## 一次性赞助
 
