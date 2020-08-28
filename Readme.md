@@ -21,16 +21,15 @@
 ## electron 客户端
 * [electron-chat](https://github.com/fsharechat/electron-chat) 基于electron的pc端项目
 
-**NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`,
+**NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`
 
 # 项目截图
 
 ## Android 客户端
 
-![image](https://media.comsince.cn/minio-bucket-image-name/android-main.png)  
-![image](https://media.comsince.cn/minio-bucket-image-name/android-group-call.png)
-
-
+| 主界面      | 群组音视频聊天| 
+| :--------: | :--------:| 
+|<img src="https://media.comsince.cn/minio-bucket-image-name/android-main.png" alt="图片替换文本" width="300" height="533" align="center" />|<img src="https://media.comsince.cn/minio-bucket-image-name/android-group-call.png" alt="图片替换文本" width="300" height="533" align="center" />|
 ## web 客户端
 
 ![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-group-info.png)  
