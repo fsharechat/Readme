@@ -1,9 +1,3 @@
----
-layout: post
-title: 飞享项目说明
-category: IM
-description: 
----
 
 # 项目概述
 为了便于项目的管理与发展,将项目相关的仓库全部移动到这里.之前在[github](https://github.com/comsince),[gitee](https://gitee.com/)的个人账户下面的项目,原则上全部移动到这里维护
@@ -29,6 +23,19 @@ description:
 
 **NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`,
 
+# 项目截图
+
+## Android 客户端
+
+![image](https://media.comsince.cn/minio-bucket-image-name/android-main.png)  
+![image](https://media.comsince.cn/minio-bucket-image-name/android-group-call.png)
+
+
+## web 客户端
+
+![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-group-info.png)  
+![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-main.png)  
+![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-create-group.png)
 
 # 项目演示说明
 
