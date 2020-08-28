@@ -29,7 +29,8 @@
 
 | 主界面      | 群组音视频聊天| 
 | :--------: | :--------:| 
-|<img src="https://media.comsince.cn/minio-bucket-image-name/android-main.png" alt="图片替换文本" width="300" height="533" align="center" />|<img src="https://media.comsince.cn/minio-bucket-image-name/android-group-call.png" alt="图片替换文本" width="300" height="533" align="center" />|
+|<img src="https://media.comsince.cn/minio-bucket-image-name/android-main.png" alt="图片替换文本" width="300" height="533" align="center"/>|<img src="https://media.comsince.cn/minio-bucket-image-name/android-group-call.png" alt="图片替换文本" width="300" height="533" align="center"/>|
+
 ## web 客户端
 
 ![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-group-info.png)  
