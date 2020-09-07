@@ -241,4 +241,4 @@ git branch --set-upstream-to=origin/master
 
 | QQ群 |
 | :--------: | 
-|<img src="https://media.comsince.cn/minio-bucket-image-name/qq-group.jpg" alt="图片替换文本" width="300" height="811" align="center" />|
+|<img src="https://media.comsince.cn/minio-bucket-image-name/qq-group.jpg" alt="图片替换文本" width="300" height="400" align="center" />|
