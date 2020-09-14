@@ -39,6 +39,11 @@
 ![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-main.png)  
 ![image](https://media.comsince.cn/minio-bucket-image-name/vue-chat-create-group.png)
 
+## PC客户端
+
+![image](https://media.comsince.cn/minio-bucket-image-name/1-373z3zNN-1599900805150-image.png)
+![image](https://media.comsince.cn/minio-bucket-image-name/1-373z3zNN-1599900459066-image.png)
+
 # 项目演示说明
 
 * [vue-chat-web版本](https://www.comsince.cn/web)
@@ -46,6 +51,11 @@
 * Android扫码下载  
 
 ![image](https://media.comsince.cn/minio-bucket-image-name/1-373z3zNN-1594953226715-fshare-chat-apk-qrcode.png)
+
+* pc 客户端下载
+  * [windows客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-window.exe)
+  * [macos客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-macos.dmg)
+  * [Linux客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-linux.AppImage)
 
 **NOTE:** 由于现在没有开通短信功能,可以使用下演示帐号登录
 
