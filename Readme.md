@@ -54,6 +54,7 @@
 
 * pc 客户端下载
   * [windows客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-window.exe)
+  * [windows免安装版本](https://media.comsince.cn/minio-bucket-file-name/fshare-eletron-vue-chat.exe)
   * [macos客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-macos.dmg)
   * [Linux客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-linux.AppImage)
 
