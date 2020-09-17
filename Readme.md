@@ -94,10 +94,12 @@ git branch --set-upstream-to=origin/master
         <th>web</th>
         <th>h5</th>
         <th>android</th>
+        <th>pc客户端</th>
     </tr >
     <tr>
         <td >登录</td>
         <td>支持腾讯云,阿里云验证码登录</td>
+        <td>√</td>
         <td>√</td>
         <td>√</td>
         <td>√</td>
@@ -108,9 +110,11 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>√</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>修改用户昵称</td>
+        <td>√</td>
         <td>√</td>
         <td>√</td>
         <td>√</td>
@@ -121,9 +125,11 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>√</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>处理好友请求</td>
+        <td>√</td>
         <td>√</td>
         <td>√</td>
         <td>√</td>
@@ -133,9 +139,11 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>√</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>好友列表查看</td>
+        <td>√</td>
         <td>√</td>
         <td>√</td>
         <td>√</td>
@@ -146,11 +154,13 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>√</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>语音</td>
         <td>×</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     <tr>
@@ -158,17 +168,20 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>消息撤回</td>
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>消息转发</td>
         <td>√</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     <tr>
@@ -177,11 +190,13 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>修改群名称</td>
         <td>√</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     <tr>
@@ -189,11 +204,13 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>群聊解散</td>
         <td>√</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     <tr>
@@ -201,17 +218,20 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>成员邀请</td>
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>成员删除</td>
         <td>√</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     <tr>
@@ -220,11 +240,13 @@ git branch --set-upstream-to=origin/master
         <td>√</td>
         <td>×</td>
         <td>√</td>
+        <td>√</td>
     </tr>
     <tr>
         <td>群组音视频</td>
         <td>√</td>
         <td>×</td>
+        <td>√</td>
         <td>√</td>
     </tr>
     
