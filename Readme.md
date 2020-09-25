@@ -46,8 +46,10 @@
 
 # 项目演示说明
 
-* [vue-chat-web版本](https://www.comsince.cn/web)
-* [vue-mobile-chat移动版本](https://www.comsince.cn/mobile)
+**NOTE:** 请使用同一环境的`PC`,`Android`端登录测试,演示环境的统一服务地址为`chat.comsince.cn`
+
+* [vue-chat-web版本](https://chat.comsince.cn)
+* [vue-mobile-chat移动版本](https://chat.comsince.cn/mobile)
 * Android扫码下载  
 
 ![image](https://media.comsince.cn/minio-bucket-image-name/1-373z3zNN-1594953226715-fshare-chat-apk-qrcode.png)
@@ -57,6 +59,11 @@
   * [windows免安装版本](https://media.comsince.cn/minio-bucket-file-name/fshare-eletron-vue-chat.exe)
   * [macos客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-macos.dmg)
   * [Linux客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-linux.AppImage)
+
+
+## 备用地址
+* [vue-chat-web版本](https://www.comsince.cn/web)
+* [vue-mobile-chat移动版本](https://www.comsince.cn/mobile)  
 
 **NOTE:** 由于现在没有开通短信功能,可以使用下演示帐号登录
 
