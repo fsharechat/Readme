@@ -20,8 +20,8 @@
 ## vue 移动端
 * [vue-mobile-chat](https://github.com/fsharechat/vue-mobile-chat) 基于vue的移动端项目
 
-## electron 客户端
-* [electron-chat](https://github.com/fsharechat/electron-chat) 基于electron的pc端项目
+## electron vue 客户端
+* [electron-vue-chat](https://github.com/fsharechat/electron-vue-chat) 基于electron的pc端项目
 
 **NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`
 
