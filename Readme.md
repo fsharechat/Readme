@@ -86,6 +86,8 @@ git branch --set-upstream-to=origin/master
 ## 部署
 * [即时聊天系统在Centos上单机部署实践](https://www.comsince.cn/2020/04/13/universe-push-start-on-centos/)
 * [即时聊天系统在Windows上单机测试部署实践](https://www.comsince.cn/2020/05/07/universe-push-start-on-windows/)
+* [即时聊天系统在Windows上单机部署指南](https://www.comsince.cn/2020/10/14/fshare-on-windows/)
+* [即时聊天系统在Ubuntu上单机部署实践](https://www.comsince.cn/2020/08/31/ubuntu-install-fshare/)
 ## 音视频方案
 * [实时音视频开发的工程化实践](https://www.comsince.cn/2020/03/04/web-rtc/)
 * [多人音视频会话方案预研](https://www.comsince.cn/2020/06/01/muti-conference-webrtc/)
