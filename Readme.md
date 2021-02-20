@@ -9,7 +9,7 @@
 ## 项目列表
 ### 服务端项目
 * [chat-server-release](https://github.com/fsharechat/chat-server-release) 飞享服务端发布项目,便于快速本地部署
-* [chat-server](https://github.com/fsharechat/chat-server)  IM服务端项目
+* [chat-server-pro](https://github.com/fsharechat/chat-server-pro)  IM服务端项目
 * [chat-proto](https://github.com/fsharechat/chat-proto) 基于protobuf的相关proto定义文件
 
 ### Android客户端
@@ -18,6 +18,7 @@
 
 ### Vue Web客户端
 * [vue-chat](https://github.com/fsharechat/vue-chat)  基于vue的web端项目
+* [vue-chat-pro](https://github.com/fsharechat/vue-chat-pro)  基于vue的web端项目
 
 ### Vue 移动端
 * [vue-mobile-chat](https://github.com/fsharechat/vue-mobile-chat) 基于vue的移动端项目
@@ -25,7 +26,7 @@
 ### Electron-Vue 客户端
 * [electron-vue-chat](https://github.com/fsharechat/electron-vue-chat) 基于electron的pc端项目
 
-**NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`
+**NOTE:** 专业版提供付费技术支持,并且提供源码授权,请联系QQ `1282212195`,带有pro后缀的专业版项目,只对付费用户开放
 
 ## 项目截图
 
@@ -59,12 +60,7 @@
 * pc 客户端下载
   * [windows客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-window.exe)
   * [macos客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-macos.dmg)
-  * [Linux客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-linux.AppImage)
-
-
-### 备用地址
-* [vue-chat-web版本](https://www.comsince.cn/web)
-* [vue-mobile-chat移动版本](https://www.comsince.cn/mobile)  
+  * [Linux客户端](https://media.comsince.cn/minio-bucket-file-name/fshare-chat-linux.AppImage) 
 
 **NOTE:** 由于现在没有开通短信功能,可以使用下演示帐号登录
 
@@ -274,6 +270,12 @@ git branch --set-upstream-to=origin/master
 ### 开源协议
 
 本项目使用非商业性署名协议,禁止演绎[Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/)
+
+### 软件著作权
+
+| 飞享IM软件著作证书 |
+| :--------: | 
+|<img src="https://media.comsince.cn/minio-bucket-image-name/fsharechat-soft-cert.jpg" alt="图片替换文本" width="300" height="424" align="center" />|
 
 ### 一次性赞助
 
